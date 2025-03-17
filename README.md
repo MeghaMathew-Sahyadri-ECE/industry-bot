@@ -1,4 +1,4 @@
-# 🚀 STM32-Based Obstacle Avoiding and Line Following Robot  
+# 🚀 STM32-Based Obstacle Avoiding and Smart Automation Industrial Bot  
 
 This project implements an STM32-based autonomous robot that combines line following and obstacle avoidance using IR sensors, an ultrasonic sensor, and a gas/flame sensor. The robot is programmed to detect obstacles, follow a black line, and respond to gas or flame detection by activating an alarm system.
 
@@ -88,6 +88,7 @@ This project demonstrates real-time robot movement, obstacle detection, and envi
 
 ---
 
-## ✨ Author  
-**[Bhoomika H Salian](https://github.com/BhoomikaSalian)** 
+## ✨ Authors  
+**[Bhoomika H Salian](https://github.com/BhoomikaSalian)**
+**[Megha Akku Mathew](https://github.com/MeghaMathew-Sahyadri-ECE)**
 
