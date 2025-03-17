@@ -89,6 +89,6 @@ This project demonstrates real-time robot movement, obstacle detection, and envi
 ---
 
 ## ✨ Authors  
-**[Bhoomika H Salian](https://github.com/BhoomikaSalian)**
+**[Bhoomika H Salian](https://github.com/BhoomikaSalian)**                                                                
 **[Megha Akku Mathew](https://github.com/MeghaMathew-Sahyadri-ECE)**
 
