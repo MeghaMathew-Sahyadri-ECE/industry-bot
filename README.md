@@ -72,6 +72,11 @@ This project implements an STM32-based autonomous robot that combines line follo
 | PB3, PB4 | Counting LEDs | Displays alert sequence |  
 | PB5 | Trigger Pin (Ultrasonic) | Triggers ultrasonic sensor |  
 | PB6 | Echo Pin (Ultrasonic) | Receives ultrasonic pulse |  
+| PA4 | Left Motor Forward   | Motor driver control            |  
+| PA2 | Left Motor Backward  | Motor driver control            |  
+| PA5 | Right Motor Forward  | Motor driver control            |  
+| PA3 | Right Motor Backward | Motor driver control            |
+
 
 ---
 
